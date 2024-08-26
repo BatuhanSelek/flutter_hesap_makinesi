@@ -1,16 +1,19 @@
-# flutter_hesap_makinesi
+Basit Hesap Makinesi Uygulaması
+Bu proje, Flutter kullanılarak geliştirilmiş basit bir hesap makinesi uygulamasıdır. Uygulama, toplama, çıkarma, çarpma ve bölme gibi temel aritmetik işlemleri gerçekleştirir.
 
-A new Flutter project.
+Özellikler:
+-Toplama, çıkarma, çarpma ve bölme işlemleri.
+-Hesap makinesini sıfırlamak için C butonu.
+-Farklı cihaz boyutlarında çalışabilen duyarlı tasarım.
 
-## Getting Started
+Gereksinimler:
+Bu projeyi yerel olarak çalıştırmak için makinenizde şu yazılımların kurulu olması gerekir:
 
-This project is a starting point for a Flutter application.
+-Flutter (en son kararlı sürüm)
+-Visual Studio Code veya Android Studio gibi Flutter'ı destekleyen herhangi bir IDE.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Kullanım:
+-Sayıları girerek işlemleri gerçekleştirin.
+-Toplama, çıkarma, çarpma veya bölme işlemlerini yapmak için ilgili işlem butonlarına basın.
+-Sonucu görmek için = butonuna basın.
+-Hesap makinesini sıfırlamak için C butonunu kullanın.
